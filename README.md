@@ -1,7 +1,7 @@
 # I dont update this often
 # 19.20 Fortnite Offsets
 ### Current Version: 19.20
-### Latest Update DDay: 1.2.2022 (GMT +2)
+### Latest Update Day: 1.2.2022 (GMT +2)
 
 --------------------------------------------------
 
