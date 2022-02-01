@@ -7,8 +7,8 @@
 
 # Included dumps
 
-[Offsets](https://github.com/ofDataa/fortnite-offsets/edit/main/offsets). (DataType/Outer/Value)
+[Offsets](https://github.com/ofDataa/fortnite-offsets/main/offsets). (DataType/Outer/Value)
 
-[Sigs](https://github.com/ofDataa/fortnite-offsets/edit/main/sigs). (Name/RVA/Pattern)
+[Sigs](https://github.com/ofDataa/fortnite-offsets/main/sigs). (Name/RVA/Pattern)
 
 --------------------------------------------------
