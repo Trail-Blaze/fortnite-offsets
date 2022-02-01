@@ -1,6 +1,6 @@
 DataType | Outer | Value
 
-struct | GObjects | 0xB5BC648
+struct | GObjects | 0xB613240
 struct | UWorld | 0xB78BC70
 struct | Levels | 0x148
 struct | PersistentLevel | 0x30
